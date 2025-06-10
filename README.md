@@ -1,0 +1,2 @@
+# practicaTypeScript
+TareaEBAC
